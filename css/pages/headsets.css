@@ -195,6 +195,11 @@
 }
 
 @media screen and (max-width: 600px){
+    .headsets-main{
+        padding-left: 20px;
+        box-sizing: border-box;
+    }
+    
     .headsets-main__filter{
         display: none;
     }
